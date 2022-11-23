@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  PostTestTask
+
+  Created by Igor Poliukhovych on 23.11.2022.
+  
+*/
+
+// MARK: User
+"user.numberOfPosts" = "Number of posts: %i";
