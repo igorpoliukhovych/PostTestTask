@@ -78,7 +78,6 @@
 		819D629B292E1C5800BB7F8E /* NetworkManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkManager.swift; sourceTree = "<group>"; };
 		819D629E292E1C7400BB7F8E /* MainEndPoint.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainEndPoint.swift; sourceTree = "<group>"; };
 		819D62A5292E1E6C00BB7F8E /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
-		819D62A7292E1EAD00BB7F8E /* ar */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ar; path = ar.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
 		819D62A8292E1EAE00BB7F8E /* ar */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ar; path = ar.lproj/Localizable.strings; sourceTree = "<group>"; };
 		819D62A9292E1EF000BB7F8E /* String+Localized.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "String+Localized.swift"; sourceTree = "<group>"; };
 		819D62AF292E224F00BB7F8E /* Localization.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Localization.swift; sourceTree = "<group>"; };
@@ -422,7 +421,6 @@
 			isa = PBXVariantGroup;
 			children = (
 				819D6252292E18AA00BB7F8E /* Base */,
-				819D62A7292E1EAD00BB7F8E /* ar */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
