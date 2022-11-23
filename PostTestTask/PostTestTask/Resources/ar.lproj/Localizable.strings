@@ -5,6 +5,9 @@
   Created by Igor Poliukhovych on 23.11.2022.
   
 */
-
 // MARK: User
 "user.numberOfPosts" = "Number of posts: %i";
+"user.userTitle" = "User";
+
+// MARK: Detail
+"userdetail.title" = "User Details";
